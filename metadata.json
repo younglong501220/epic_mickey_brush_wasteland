@@ -1,0 +1,6 @@
+{
+  "name": "傳奇米奇：荒廢之國的畫筆 (Epic Mickey: Brush of Wasteland)",
+  "description": "致敬《迪士尼傳奇米奇：重製版》的互動式動作冒險網頁遊戲。手握神奇畫筆，揮灑油漆與溶劑修復或消融荒廢之國，感化墨水怪，迎接多重結局！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
